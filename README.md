@@ -4,3 +4,4 @@ In this notebook, we explore the credit card fraud dataset from: https://www.kag
 
 The purpose of this notebook is to use the k-nearest neighbour classfier algorithm to identify fraudulent use of credit cards based on 28 different variables with 280,000 points of data.
 
+We will test the performance of this algorithm on this dataset with the Precision Recall Area Under Curve method to test for True/False Positive Rate. 
